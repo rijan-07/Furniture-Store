@@ -1,0 +1,12 @@
+Invoice Details
+Customer Name: RIjan
+Customer Address: Tinthana
+Customer Contact Number: 9840254794
+
+Furniture Purchased:
+ID: 1, Manufacturer:   HNI Corporation                , Product:   Bunk Bed      , Quantity: 2, Price: $400.0
+
+Subtotal: $800.0
+VAT (13%): $104.0
+Shipping Cost: $50
+Total Amount: $954.0
